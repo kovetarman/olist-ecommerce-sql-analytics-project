@@ -49,8 +49,7 @@ CREATE TABLE orders (
     customer_id                    NVARCHAR(50)  NOT NULL,
     order_status                   NVARCHAR(50)  NOT NULL,
     order_purchase_timestamp       DATETIME2(7)  NOT NULL,
-    order_delivered_customer_date  DATETIME2(7)  NULL,
-    ...
+    order_delivered_customer_date  DATETIME2(7)  NULL
 );
 ```
 
