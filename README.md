@@ -1,7 +1,7 @@
 # 🛒 E-Commerce Customer Intelligence System
 ### Advanced SQL Analytics on the Olist Brazilian E-Commerce Dataset
 
-![Banner](banner.jpg)
+![Banner](banner.png)
 
 ---
 
